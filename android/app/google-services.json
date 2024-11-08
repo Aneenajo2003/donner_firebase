@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781999546984",
+    "project_id": "blooddonner-df770",
+    "storage_bucket": "blooddonner-df770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781999546984:android:83202a16c6df834ab2d1dd",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMnbNGn1SH6Orp_ifB9QnYonLNg6RSSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781999546984:android:1e44d0c706e44da3b2d1dd",
+        "android_client_info": {
+          "package_name": "com.example.donnerfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMnbNGn1SH6Orp_ifB9QnYonLNg6RSSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
